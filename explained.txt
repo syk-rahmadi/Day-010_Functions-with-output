@@ -1,0 +1,16 @@
+Functions
+
+def my_functions ():
+    #Do this
+    #Then do this
+    #Finally do this
+
+my_function(123)
+
+Functions with outputs
+
+def my_functions ():
+    result = 3 * 2
+    return result
+
+output = my_function()
